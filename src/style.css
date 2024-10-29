@@ -1,0 +1,21 @@
+body{
+    font-family: 'Lucida Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color:rgb(0, 20, 49);
+    text-align: center;
+    padding: 2px;
+}
+p{
+    text-align: justify;
+    color:rgb(0, 0, 27);
+    margin: 200px;
+}
+img{
+    display: block;  
+    height: 200px;  
+    margin: 10px auto; 
+    border-radius: 5px;
+}
